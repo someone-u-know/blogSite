@@ -19,7 +19,7 @@ const Navbar = () => {
           <Link href="/" className="text-green-900 font-semibold">Home</Link>
         </li>
         <li>
-          <Link href="/portfolio">Portfolio</Link>
+          <Link href="/Portfolio">Portfolio</Link>
         </li>
         <li>
           <Link href="/blog">Blog</Link>
